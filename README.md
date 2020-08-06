@@ -1,2 +1,3 @@
 # hello-world
 failed attempts to Enter Forsage has cost me. Obstacles including initial purchase of Eth; wallet intergration; Eth not reaching correct destination intact, etc.   Am i being mined or just giving it away in ignorance Please add correct license 
+Hello, my name is Sonny. I am very new an experiencing many obstacles..or lack of understanding. Simply put, I have managed to lose known whereabouts of my very limited and saved up allowances in my attempts to enter into the forsage community. My hopes are that not all is lost, and I am able to recover my meager eth before it is too late and land it in the correct destination.  Passage rite: Trust-metamask-forsage. Most grateful for any guidance.
